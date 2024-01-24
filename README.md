@@ -1,5 +1,7 @@
 ## MiniGrep 😎
 
+- A command line tool written in **rust** that `searches for word in a file and prints them to console` (somewhat similar to grep).
+
 ### Usage:
 
 ```bash
